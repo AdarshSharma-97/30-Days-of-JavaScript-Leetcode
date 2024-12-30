@@ -1,5 +1,3 @@
-# 30-Days-of-JavaScript-Leetcode
-30 Days of JavaScript From Leetcode
 # 30 Days of JavaScript - LeetCode Challenge
 
 Welcome to my 30-day journey of solving JavaScript problems on [LeetCode](https://leetcode.com/). The goal of this repository is to document my learning, share solutions, and improve my problem-solving skills in JavaScript.
