@@ -5,6 +5,3 @@ Welcome to my 30-day journey of solving JavaScript problems on [LeetCode](https:
 ## Overview
 
 This repository contains solutions for various JavaScript problems solved during the 30-day challenge. Each day, I'll tackle a different problem and add my solution along with explanations.
-
-**#Adarsh Sharma
-##Aman Sharma**
